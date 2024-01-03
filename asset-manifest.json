@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookmydoctor/static/css/main.f78fd4f5.css",
-    "main.js": "/bookmydoctor/static/js/main.907d8c9e.js",
+    "main.js": "/bookmydoctor/static/js/main.e76ac6e8.js",
     "static/js/787.f867d3e4.chunk.js": "/bookmydoctor/static/js/787.f867d3e4.chunk.js",
     "static/media/video.mp4": "/bookmydoctor/static/media/video.40c5f7eb87eaa7f33114.mp4",
     "static/media/header-page.jpg": "/bookmydoctor/static/media/header-page.b637aadefa705f6e4fd5.jpg",
@@ -35,11 +35,11 @@
     "static/media/Dr-L.-N.-Tripathy.webp": "/bookmydoctor/static/media/Dr-L.-N.-Tripathy.801014bbd6b62ea43caf.webp",
     "index.html": "/bookmydoctor/index.html",
     "main.f78fd4f5.css.map": "/bookmydoctor/static/css/main.f78fd4f5.css.map",
-    "main.907d8c9e.js.map": "/bookmydoctor/static/js/main.907d8c9e.js.map",
+    "main.e76ac6e8.js.map": "/bookmydoctor/static/js/main.e76ac6e8.js.map",
     "787.f867d3e4.chunk.js.map": "/bookmydoctor/static/js/787.f867d3e4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f78fd4f5.css",
-    "static/js/main.907d8c9e.js"
+    "static/js/main.e76ac6e8.js"
   ]
 }
