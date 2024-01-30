@@ -42,7 +42,7 @@ export default function Contact() {
                 </div>
                 <div class="ms-4">
                   <p class="mb-2">Address</p>
-                  <h5 class="mb-0">123 Sector-V, College More, India</h5>
+                  <h5 class="mb-0">123 Sector-V, College More, India.</h5>
                 </div>
               </div>
             </div>
