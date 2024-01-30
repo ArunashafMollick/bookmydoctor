@@ -15,7 +15,7 @@ export default function Header() {
     e.target.classList.toggle("active");
   };
 
-  const { toggle,redirectTo } = useSelector((s) => s?.Auth);
+  const { toggle, redirectTo } = useSelector((s) => s?.Auth);
 
   const logout = () => {
     dispatch(handleLoggedout());
@@ -38,7 +38,7 @@ export default function Header() {
           <div class="col-lg-7 px-5 text-start">
             <div class="h-100 d-inline-flex align-items-center py-3 me-4">
               <small class="fa fa-map-marker-alt text-primary me-2"></small>
-              <small>123 Street, New York, USA</small>
+              <small>123 Sector-V, College More, India</small>
             </div>
             <div class="h-100 d-inline-flex align-items-center py-3">
               <small class="far fa-clock text-primary me-2"></small>

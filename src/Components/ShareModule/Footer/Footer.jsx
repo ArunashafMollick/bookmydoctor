@@ -15,8 +15,8 @@ export default function Footer() {
             <div class="col-lg-3 col-md-6">
               <h5 class="text-light mb-4">Address</h5>
               <p class="mb-2">
-                <i class="fa fa-map-marker-alt me-3"></i>123 Street, New York,
-                USA
+                <i class="fa fa-map-marker-alt me-3"></i>123 Sector-V, College
+                More, India
               </p>
               <p class="mb-2">
                 <i class="fa fa-phone-alt me-3"></i>+012 345 67890

@@ -406,7 +406,7 @@ export default function Doctors() {
       icon: "success",
       title: `Congratulation . Your have successfully been booked. Our counsellor will call you.`,
       showConfirmButton: false,
-      timer: 2000,
+      timer: 3000,
     });
   };
   console.log(option);
