@@ -150,11 +150,7 @@ export default function Contact() {
               <div class="h-100" style={{ minHeight: "400px" }}>
                 <iframe
                   class="rounded w-100 h-100"
-<<<<<<< HEAD
                   src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.1039987526347!2d88.4248595743533!3d22.57521333287647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0275927b0061ad%3A0x496c2fab98874c86!2sWebskitters%20Technology%20Solutions%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1706625246004!5m2!1sen!2sin"
-=======
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3684.1039987526347!2d88.4248595743533!3d22.57521333287647!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a0275927b0061ad%3A0x496c2fab98874c86!2sWebskitters%20Technology%20Solutions%20Pvt.%20Ltd.!5e0!3m2!1sen!2sin!4v1706619190374!5m2!1sen!2sin"
->>>>>>> 84308a79f02251b6d13a3278e95ad058f2008819
                   frameborder="0"
                   allowfullscreen=""
                   aria-hidden="false"
